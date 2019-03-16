@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "523370892203",
+    "firebase_url": "https://connect-25418.firebaseio.com",
+    "project_id": "connect-25418",
+    "storage_bucket": "connect-25418.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523370892203:android:6183b1440c2d1217",
+        "android_client_info": {
+          "package_name": "com.lins.connect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "523370892203-lan17gf5hnt44e989kfieap5uos3c798.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lins.connect",
+            "certificate_hash": "3dc4355f423ae206b73c14f665bd115d7417567f"
+          }
+        },
+        {
+          "client_id": "523370892203-v12ivm8ecdog09pa8ko9p3pqicojdvki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWC8__Uf1mwBvY_ECMt3c0fmz_tLfs-5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
