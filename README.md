@@ -13,4 +13,5 @@ It was developed on the Java using framework libGDX. The framework provides to a
 
 ## Release
 LibGDX is a minimalistic framework. The framework allowed to build a lightweight app: android release has size about 3 MB:
+<br>
 [Android release](./android/android-release.apk)
