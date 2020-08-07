@@ -12,6 +12,4 @@ By the way, the game has an Easter egg. Can you find it?
 It was developed on the Java using framework LibGDX. The framework provides to add shaders and interact with it via code an easy way. In the project I used custom shaders for drawing shapes and SDF text. Shapes are rendering into a texture which then drawn on the screen in the required places as much as necessary. This avoids shader-inside re-drawing graphic elements that do not change. The are used custom animation system for more control. The game saves was done by standard means of LibGDX via Json Serialization.
 
 ## Release
-LibGDX is a minimalistic framework. The framework allowed to build a lightweight app: android release has size about 3 MB:
-<br>
-[Android release](./android/android-release.apk)
+[Android release](https://github.com/linsdev/connect-avoid-a-triangle/releases) (about 3 MB)
